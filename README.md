@@ -3,7 +3,7 @@ Bootstrap
 
 # Technologies
 1. Bootstrap Components
-2. JQuery Layouts
+2. Bootstrap Layouts
 
 # Editor
  1. Visual Studio Code
